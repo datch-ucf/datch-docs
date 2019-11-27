@@ -9,3 +9,4 @@ For the offical source code for DATCH, visit [**the official DATCH GitHub reposi
 * [**DATCH Hololens Deploy Guide:**](deploying-hololens.md) Deploying an App Package for HoloLens 
 * [**DATCH Userguide (functionality):**](datch-functionality.md) DATCH Functionality 
 * [**DATCH developer resources:**](resources.md) information on general HoloLens AR developer resources and Unity information. 
+* [**DATCH adding shapefiles:**](adding-shapefiles.md) instructions on how to add shapefiles to the DATCH AR platform. 
