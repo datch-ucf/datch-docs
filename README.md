@@ -7,3 +7,4 @@ For the offical source code for DATCH, visit [**the official DATCH GitHub reposi
 
 * [**DATCH Build Setup:**](build-setup.md)  Setting up Visual Studio to build and install Universal Windows Platform applications to the Microsoft HoloLens
 * [**DATCH Hololens Deploy Guide:**](deploying-hololens.md) Deploying an App Package for HoloLens 
+* [**DATCH Userguide (functionality):**](datch-functionality.md) DATCH Functionality 
